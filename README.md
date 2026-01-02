@@ -35,13 +35,6 @@ Especialista em administração de dados com foco em ambientes de missão críti
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub de Anderson](github-readme-stats.vercel.app)
-![Linguagens mais usadas](github-readme-stats.vercel.app)
-
----
-
 ### 📫 Vamos nos conectar?
 
 *   💼 [LinkedIn - Anderson de Faro](https://www.linkedin.com/in/andersondefaro/)
