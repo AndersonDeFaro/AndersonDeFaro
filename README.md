@@ -37,8 +37,8 @@ Especialista em administração de dados com foco em ambientes de missão críti
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub de Anderson](github-readme-stats.vercel.app)
-![Linguagens mais usadas](github-readme-stats.vercel.app)
+![Estatísticas do GitHub de Anderson](https://github-readme-stats.vercel.app/api?username=AndersonDeFaro&show_icons=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonDeFaro&layout=compact)
 
 ---
 
