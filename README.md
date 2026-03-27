@@ -33,7 +33,7 @@ Atualmente, atuo na **SEFAZ/SE** e como docente em cursos de especialização, c
 ### 🎓 Formação & Certificações
 
 *   **Pós-graduação em Banco de Dados:** FANESE (Foco em BI Open Source).
-*   **Bacharelado em Ciência da Computação:** UNIT.
+*   **Bacharelado em Ciência da Computação:** UNIT (ERP Open Source para Pequenas e Médias empresas).
 *   **Certificações OCI:** Oracle Cloud Infrastructure Data Foundation (IZ0-1195) e Foundation (1Z0-1085).
 
 ---
