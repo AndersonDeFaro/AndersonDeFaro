@@ -75,7 +75,7 @@ Atuo na SEFAZ/SE com foco em modernização de plataformas analíticas, governan
 
 - LinkedIn: [Anderson de Faro](https://www.linkedin.com/in/andersondefaro/)
 - Contato: [Canal direto](https://bit.ly/m/AndersonFaro)
-- Curriculo em PDF: [Google Docs]((https://docs.google.com/document/d/10tawpO2pIfJ_krdW5Nr9p1PJQGFMq9A9QNkMsHAWtn4/edit?usp=sharing))
+- Curriculo em PDF: [Google Docs](https://docs.google.com/document/d/10tawpO2pIfJ_krdW5Nr9p1PJQGFMq9A9QNkMsHAWtn4/edit?usp=sharing)
 
 ---
 
