@@ -12,7 +12,7 @@ Atuo na SEFAZ/SE com foco em modernização de plataformas analíticas, governan
 
 - Experiência em modernização de ecossistemas legados para arquiteturas analíticas escaláveis
 - Forte atuação em administração e otimização de bancos de dados Oracle, SQL Server e PostgreSQL
-- Liderança técnica em iniciativas de ETL/ELT, observabilidade, CI/CD e versionamento de banco
+- Liderança técnica em iniciativas de ETL/ELT, observabilidade, CI/CD e versionamento em Banco de Dados
 - Professor de Pós-Graduação com foco em formação prática de profissionais de dados
 
 ---
@@ -23,42 +23,42 @@ Atuo na SEFAZ/SE com foco em modernização de plataformas analíticas, governan
 | :--- | :--- |
 | Bancos de Dados | Oracle (10g a 19c), SQL Server, PostgreSQL, MySQL, Greenplum 6/7 (MPP), MongoDB Atlas |
 | Cloud e Infra | Oracle Cloud (OCI), Azure, VMWare, Linux (Red Hat / CentOS / Debian) |
-| DataOps e CI/CD | Jenkins, Ansible, Git, Liquibase, Azure DevOps, Python (automacao) |
-| Engenharia de Dados | Pentaho (PDI), ETL/ELT, SQL Avancado, Data Warehouse |
-| Observabilidade | Zabbix, Grafana, alertas automatizados via Telegram |
+| DataOps e CI/CD | Jenkins, Ansible, Git, Liquibase, Azure DevOps, Python (automação) |
+| Engenharia de Dados | Pentaho (PDI), ETL/ELT, SQL Avançado, Data Warehouse |
+| Observabilidade | Zabbix, Grafana, alertas automatizados utilizando Telegram |
 
 ---
 
 ## Projetos Relevantes
 
 ### Arquitetura e Modelagem em Greenplum 7 MPP (SEFAZ/SE)
-- Definição da arquitetura de dados e modelagem de tabelas distribuidas para processamento paralelo massivo na migração do legado Oracle BI
-- Implementação de estrategias avancadas de chaves de distribuicao com analise de skewness
-- Estrategias de particionamento para otimizar consultas analiticas de grande porte
+- Definição da arquitetura de dados e modelagem de tabelas distribuídas para processamento paralelo massivo na migração do legado Oracle BI
+- Implementação de estratégias avançadas de chaves de distribuição com análise de skewness
+- Estratégias de particionamento para otimizar consultas analíticas de grande porte
 
 ### Portal do Auditor (SEFAZ/SE)
-- Concepção e implementação de processos ETL para integracao de dados fiscais em Data Warehouse
+- Concepção e implementação de processos ETL para integração de dados fiscais em Data Warehouse
 - Infraestrutura baseada em SQL Server com SSAS e SSRS
 
 ### Monitoramento de Bancos de Dados (SEFAZ/SE)
 - Implementação de arquitetura de monitoramento centralizado com Zabbix e Grafana
-- Integração de alertas automatizados via Telegram para resposta proativa a incidentes
+- Integração de alertas automatizados via Telegram para resposta proativa aos incidentes
 
 ### Automação de Processos com Jenkins e Ansible (SEFAZ/SE)
-- Criação de pipelines de CI/CD para automacao de rotinas operacionais
-- Provisionamento de infraestrutura de dados com praticas de automacao e padronizacao
+- Criação de pipelines de CI/CD para automação de rotinas operacionais
+- Provisionamento de infraestrutura de dados com práticas de automação e padronização
 
-### Modelagem e Administracao de Dados - GFUNAD, OSCIP e Forca Nacional (MJSP)
-- Atuação na modelagem e administracao de dados para sistemas estrategicos do Ministerio da Justica e Seguranca Publica
-- Implementação de esteiras de versionamento de banco de dados com Liquibase e Git na nuvem Azure
-- Gestão e otimizacao de infraestrutura e repositorios com Azure DevOps
+### Modelagem e Administração de Dados - GFUNAD, OSCIP e Força Nacional (MJSP)
+- Atuação na modelagem e administração de dados para sistemas estratégicos do Ministério da Justiça e Segurança Pública
+- Implementação de estratégias de versionamento de banco de dados com Liquibase e Git na nuvem Azure
+- Gestão e otimização de infraestrutura e repositórios com Azure DevOps
 
 ---
 
 ## Formação e Certificações
 
-- Pos-graduacao em Banco de Dados - FANESE (foco em BI Open Source)
-- Bacharelado em Ciencia da Computacao - UNIT (Arquitetura e aplicação de ERPs de código aberto)
+- Pós-graduação em Banco de Dados - FANESE (foco em BI Open Source)
+- Bacharelado em Ciência da Computação - UNIT (Arquitetura e aplicação de ERPs de código aberto)
 - Oracle Cloud Infrastructure Data Foundation Associate (1Z0-1195)
 - Oracle Cloud Infrastructure Foundations Associate (1Z0-1085)
 
